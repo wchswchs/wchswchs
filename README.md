@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wchswchs&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wchswchs)
 
 I’m Jobs Wang (aka "谦虚的小叮当")
 
