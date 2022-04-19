@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wchswchs&left_color=green&right_color=red)
+
 I’m Jobs Wang (aka "谦虚的小叮当")
 
 Here are some ideas to get you started:
